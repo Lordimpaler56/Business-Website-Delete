@@ -1,3 +1,2 @@
 # Business-Website-Delete
-Just delete this one when you finish the class smart guy
- 
+Just delete this when you finish the class smart guy
